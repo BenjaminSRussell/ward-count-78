@@ -618,3 +618,6 @@
 {"n":618,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at South stair. Nobody past the north slip. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north slip. Bess keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
 {"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north slip. arc left open. 4 steps. The barrel stays for the wipe."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the pier. Nobody past the north slip. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north slip. Matt keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":623,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north slip. arc left open. 7 steps. The barrel stays for the wipe."}
