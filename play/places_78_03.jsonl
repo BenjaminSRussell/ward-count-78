@@ -829,3 +829,6 @@
 {"n":829,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south roof. arc left open. 8 steps. The badge door stays for the wipe."}
 {"n":830,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Kessler alley. Nobody past the south roof. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":831,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley south roof. Bess keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south roof. arc left open. 4 steps. The badge door stays for the wipe."}
+{"n":833,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at the Lot. Nobody past the south roof. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":834,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot south roof. Matt keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
