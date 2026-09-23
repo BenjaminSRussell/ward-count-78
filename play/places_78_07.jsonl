@@ -825,3 +825,6 @@
 {"n":825,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east slip. arc left open. 7 steps. The drum stays for the wipe."}
 {"n":826,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the east slip. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":827,"kind":"place","name":"Drydock east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock east slip. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
+{"n":828,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east slip. arc left open. 3 steps. The drum stays for the wipe."}
+{"n":829,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the east slip. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":830,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line east slip. Matt keeps the drum for the wipe. 5 steps, arc on the left lane, open."}
