@@ -775,3 +775,6 @@
 {"n":775,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light north slip. Bess keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
 {"n":776,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north slip. arc left open. 6 steps. The crate stays for the wipe."}
 {"n":777,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at South stair. Nobody past the north slip. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":778,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair north slip. Matt keeps the crate for the wipe. 8 steps, arc on the left lane, open."}
+{"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north slip. arc left open. 2 steps. The crate stays for the wipe."}
+{"n":780,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at South stair. Nobody past the north slip. We wipe in 3 steps. Arc on the left lane, open."}
