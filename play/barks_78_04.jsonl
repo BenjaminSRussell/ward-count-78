@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the hydrant for the wipe. 2 steps, arc on the left lane, open."}
 {"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. arc left open. 3 steps. The hydrant stays for the wipe."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Last Light. Nobody past the west slip. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west slip. Bess keeps the hydrant for the wipe. 5 steps, arc on the left lane, open."}
+{"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. arc left open. 6 steps. The hydrant stays for the wipe."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at South stair. Nobody past the west slip. We wipe in 7 steps. Arc on the left lane, open."}
