@@ -137,3 +137,6 @@
 {"n":137,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The plywood stays for the wipe."}
 {"n":138,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Ward gate. Nobody past the south roof. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":139,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south roof. Bess keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
+{"n":140,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The plywood stays for the wipe."}
+{"n":141,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Kessler alley. Nobody past the south roof. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":142,"kind":"place","name":"Kessler alley south roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south roof. Matt keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
