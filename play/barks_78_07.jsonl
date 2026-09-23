@@ -83,3 +83,6 @@
 {"n":83,"kind":"place","name":"Mast yard east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard east slip. Bess keeps the rebar for the wipe. 7 steps, arc on the left lane, open."}
 {"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east slip. arc left open. 8 steps. The rebar stays for the wipe."}
 {"n":85,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Last Light. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":86,"kind":"place","name":"Last Light east slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light east slip. Matt keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
+{"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east slip. arc left open. 4 steps. The rebar stays for the wipe."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Last Light. Nobody past the east slip. We wipe in 5 steps. Arc on the left lane, open."}
