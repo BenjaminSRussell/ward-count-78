@@ -352,3 +352,6 @@
 {"n":352,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north roof. arc left open. 3 steps. The hydrant stays for the wipe."}
 {"n":353,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Mast yard. Nobody past the north roof. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":354,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard north roof. Matt keeps the hydrant for the wipe. 5 steps, arc on the left lane, open."}
+{"n":355,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north roof. arc left open. 6 steps. The hydrant stays for the wipe."}
+{"n":356,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Mast yard. Nobody past the north roof. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":357,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north roof. Nia keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
