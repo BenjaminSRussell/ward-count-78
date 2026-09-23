@@ -428,3 +428,6 @@
 {"n":428,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north roof. Ivo keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
 {"n":429,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north roof. arc left open. 2 steps. The shutter stays for the wipe."}
 {"n":430,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Switchyard. Nobody past the north roof. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":431,"kind":"place","name":"Switchyard north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north roof. Bess keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
+{"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north roof. arc left open. 5 steps. The shutter stays for the wipe."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Drydock. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
