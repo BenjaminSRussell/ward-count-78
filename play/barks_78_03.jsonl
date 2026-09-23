@@ -816,3 +816,6 @@
 {"n":816,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south roof. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
 {"n":817,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south roof. arc left open. 3 steps. The badge door stays for the wipe."}
 {"n":818,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the south roof. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":819,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south roof. Bess keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":820,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south roof. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":821,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the south roof. We wipe in 7 steps. Arc on the left lane, open."}
