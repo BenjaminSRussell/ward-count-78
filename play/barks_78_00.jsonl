@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line north roof. Ivo keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
 {"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north roof. arc left open. 5 steps. The plywood stays for the wipe."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at High line. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":279,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north roof. Bess keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
+{"n":280,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. arc left open. 8 steps. The plywood stays for the wipe."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Ward gate. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
