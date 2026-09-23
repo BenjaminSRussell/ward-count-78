@@ -769,3 +769,6 @@
 {"n":769,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Drydock. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":770,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north roof. Matt keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
 {"n":771,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north roof. arc left open. 8 steps. The drum stays for the wipe."}
+{"n":772,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Drydock. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":773,"kind":"place","name":"Drydock north roof","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Drydock north roof. Nia keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":774,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, north roof. arc left open. 4 steps. The drum stays for the wipe."}
