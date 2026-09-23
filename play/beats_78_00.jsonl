@@ -539,3 +539,6 @@
 {"n":539,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Last Light. Nobody past the north roof. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":540,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light north roof. Ivo keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
 {"n":541,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north roof. arc left open. 3 steps. The barrel stays for the wipe."}
+{"n":542,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Last Light. Nobody past the north roof. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":543,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north roof. Bess keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
+{"n":544,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north roof. arc left open. 6 steps. The barrel stays for the wipe."}
