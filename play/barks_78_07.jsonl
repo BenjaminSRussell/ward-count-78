@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"Mall court east slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court east slip. Ivo keeps the drum for the wipe. 8 steps, arc on the left lane, open."}
 {"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, east slip. arc left open. 2 steps. The drum stays for the wipe."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Mall court. Nobody past the east slip. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":731,"kind":"place","name":"Mall court east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east slip. Bess keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
+{"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east slip. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Underpass. Nobody past the east slip. We wipe in 6 steps. Arc on the left lane, open."}
