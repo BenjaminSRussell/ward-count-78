@@ -38,3 +38,6 @@
 {"n":38,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Kessler alley. Nobody past the north slip. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":39,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the rebar for the wipe. 3 steps, arc on the left lane, open."}
 {"n":40,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. arc left open. 4 steps. The rebar stays for the wipe."}
+{"n":41,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at the Lot. Nobody past the north slip. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":42,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot north slip. Matt keeps the rebar for the wipe. 6 steps, arc on the left lane, open."}
+{"n":43,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north slip. arc left open. 7 steps. The rebar stays for the wipe."}
