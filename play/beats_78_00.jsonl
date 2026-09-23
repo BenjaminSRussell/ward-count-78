@@ -5,3 +5,6 @@
 {"n":5,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the Underpass. Nobody past the east roof. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":6,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east roof. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":7,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east roof. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":8,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at the Underpass. Nobody past the east roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":9,"kind":"place","name":"the Underpass east roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Underpass east roof. Nia keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":10,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east roof. arc left open. 4 steps. The radio coil stays for the wipe."}
