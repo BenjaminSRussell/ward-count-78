@@ -14,3 +14,6 @@
 {"n":14,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, north roof. arc left open. 6 steps. The radio coil stays for the wipe."}
 {"n":15,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at Mall court. Nobody past the north roof. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":16,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
+{"n":17,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":18,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Mall court. Nobody past the north roof. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":19,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court north roof. Bess keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
