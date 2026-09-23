@@ -973,3 +973,6 @@
 {"n":973,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the north roof. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":974,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Kessler alley north roof. Matt keeps the radio coil for the wipe. 8 steps, arc on the left lane, open."}
 {"n":975,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north roof. arc left open. 2 steps. The radio coil stays for the wipe."}
+{"n":976,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Kessler alley. Nobody past the north roof. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":977,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Kessler alley north roof. Nia keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":978,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north roof. arc left open. 5 steps. The radio coil stays for the wipe."}
