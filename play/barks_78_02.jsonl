@@ -631,3 +631,6 @@
 {"n":631,"kind":"place","name":"High line south roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south roof. Bess keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
 {"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south roof. arc left open. 8 steps. The barrel stays for the wipe."}
 {"n":633,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Ward gate. Nobody past the south roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":634,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south roof. Matt keeps the crate for the wipe. 3 steps, arc on the left lane, open."}
+{"n":635,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south roof. arc left open. 4 steps. The crate stays for the wipe."}
+{"n":636,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Ward gate. Nobody past the south roof. We wipe in 5 steps. Arc on the left lane, open."}
