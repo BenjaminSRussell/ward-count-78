@@ -975,3 +975,6 @@
 {"n":975,"kind":"place","name":"High line south roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south roof. Bess keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
 {"n":976,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south roof. arc left open. 8 steps. The badge door stays for the wipe."}
 {"n":977,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Ward gate. Nobody past the south roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":978,"kind":"place","name":"Ward gate south roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate south roof. Matt keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":979,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south roof. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":980,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Ward gate. Nobody past the south roof. We wipe in 5 steps. Arc on the left lane, open."}
