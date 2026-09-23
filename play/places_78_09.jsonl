@@ -637,3 +637,6 @@
 {"n":637,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The awning stays for the wipe."}
 {"n":638,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the pier. Nobody past the north slip. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":639,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier north slip. Bess keeps the awning for the wipe. 8 steps, arc on the left lane, open."}
+{"n":640,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The awning stays for the wipe."}
+{"n":641,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Clinic roof. Nobody past the north slip. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":642,"kind":"place","name":"Clinic roof north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof north slip. Matt keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
