@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north roof. Ivo keeps the shutter for the wipe. 5 steps, arc on the left lane, open."}
 {"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north roof. arc left open. 6 steps. The shutter stays for the wipe."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the pier. Nobody past the north roof. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"the pier north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north roof. Bess keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
+{"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north roof. arc left open. 2 steps. The shutter stays for the wipe."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Clinic roof. Nobody past the north roof. We wipe in 3 steps. Arc on the left lane, open."}
