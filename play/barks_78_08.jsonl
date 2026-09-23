@@ -628,3 +628,6 @@
 {"n":628,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north slip. Ivo keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
 {"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. arc left open. 6 steps. The barrel stays for the wipe."}
 {"n":630,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at the pier. Nobody past the north slip. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":631,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north slip. Bess keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
+{"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. arc left open. 2 steps. The barrel stays for the wipe."}
+{"n":633,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Clinic roof. Nobody past the north slip. We wipe in 3 steps. Arc on the left lane, open."}
