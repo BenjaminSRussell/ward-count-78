@@ -969,3 +969,6 @@
 {"n":969,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Kessler alley north roof. Nia keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
 {"n":970,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north roof. arc left open. 5 steps. The rebar stays for the wipe."}
 {"n":971,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Kessler alley. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":972,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north roof. Ivo keeps the rebar for the wipe. 7 steps, arc on the left lane, open."}
+{"n":973,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north roof. arc left open. 8 steps. The rebar stays for the wipe."}
+{"n":974,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Kessler alley. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
