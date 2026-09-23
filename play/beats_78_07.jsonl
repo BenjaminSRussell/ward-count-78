@@ -670,3 +670,6 @@
 {"n":670,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at High line. Nobody past the east slip. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":671,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east slip. Bess keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":672,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east slip. arc left open. 8 steps. The awning stays for the wipe."}
+{"n":673,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Ward gate. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":674,"kind":"place","name":"Ward gate east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east slip. Matt keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":675,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east slip. arc left open. 4 steps. The drum stays for the wipe."}
