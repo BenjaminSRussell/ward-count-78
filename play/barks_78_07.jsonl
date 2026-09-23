@@ -860,3 +860,6 @@
 {"n":860,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley east slip. Ivo keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
 {"n":861,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, east slip. arc left open. 8 steps. The badge door stays for the wipe."}
 {"n":862,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Kessler alley. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":863,"kind":"place","name":"Kessler alley east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east slip. Bess keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":864,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east slip. arc left open. 4 steps. The badge door stays for the wipe."}
+{"n":865,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at the Lot. Nobody past the east slip. We wipe in 5 steps. Arc on the left lane, open."}
