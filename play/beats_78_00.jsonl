@@ -686,3 +686,6 @@
 {"n":686,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the Underpass. Nobody past the north roof. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":687,"kind":"place","name":"the Underpass north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass north roof. Bess keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
 {"n":688,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north roof. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":689,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mast yard. Nobody past the north roof. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":690,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard north roof. Matt keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
+{"n":691,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, north roof. arc left open. 6 steps. The crate stays for the wipe."}
