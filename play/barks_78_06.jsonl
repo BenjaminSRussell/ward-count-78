@@ -723,3 +723,6 @@
 {"n":723,"kind":"place","name":"Mall court east slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court east slip. Bess keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
 {"n":724,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east slip. arc left open. 5 steps. The crate stays for the wipe."}
 {"n":725,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at the Underpass. Nobody past the east slip. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":726,"kind":"place","name":"the Underpass east slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east slip. Matt keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
+{"n":727,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east slip. arc left open. 8 steps. The crate stays for the wipe."}
+{"n":728,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at the Underpass. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
