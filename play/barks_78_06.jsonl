@@ -831,3 +831,6 @@
 {"n":831,"kind":"place","name":"High line east slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east slip. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
 {"n":832,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east slip. arc left open. 8 steps. The crate stays for the wipe."}
 {"n":833,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Ward gate. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":834,"kind":"place","name":"Ward gate east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate east slip. Matt keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
+{"n":835,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, east slip. arc left open. 4 steps. The lamp stays for the wipe."}
+{"n":836,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Ward gate. Nobody past the east slip. We wipe in 5 steps. Arc on the left lane, open."}
