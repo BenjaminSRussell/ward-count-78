@@ -117,3 +117,6 @@
 {"n":117,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north roof. arc left open. 5 steps. The rebar stays for the wipe."}
 {"n":118,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at High line. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":119,"kind":"place","name":"High line north roof","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line north roof. Bess keeps the rebar for the wipe. 7 steps, arc on the left lane, open."}
+{"n":120,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north roof. arc left open. 8 steps. The rebar stays for the wipe."}
+{"n":121,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Ward gate. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":122,"kind":"place","name":"Ward gate north roof","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north roof. Matt keeps the rope for the wipe. 3 steps, arc on the left lane, open."}
