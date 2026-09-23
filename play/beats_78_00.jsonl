@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Mall court. Nobody past the north roof. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":504,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Mall court north roof. Ivo keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
 {"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north roof. arc left open. 2 steps. The barrel stays for the wipe."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Mall court. Nobody past the north roof. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":507,"kind":"place","name":"Mall court north roof","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mall court north roof. Bess keeps the barrel for the wipe. 4 steps, arc on the left lane, open."}
+{"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north roof. arc left open. 5 steps. The barrel stays for the wipe."}
