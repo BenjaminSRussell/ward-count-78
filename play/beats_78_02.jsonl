@@ -942,3 +942,6 @@
 {"n":942,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Switchyard. Nobody past the south roof. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":943,"kind":"place","name":"Switchyard south roof","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard south roof. Bess keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
 {"n":944,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south roof. arc left open. 5 steps. The lamp stays for the wipe."}
+{"n":945,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Drydock. Nobody past the south roof. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":946,"kind":"place","name":"Drydock south roof","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock south roof. Matt keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south roof. arc left open. 8 steps. The lamp stays for the wipe."}
