@@ -874,3 +874,6 @@
 {"n":874,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Mast yard. Nobody past the north roof. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":875,"kind":"place","name":"Mast yard north roof","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard north roof. Bess keeps the badge door for the wipe. 7 steps, arc on the left lane, open."}
 {"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north roof. arc left open. 8 steps. The badge door stays for the wipe."}
+{"n":877,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Last Light. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":878,"kind":"place","name":"Last Light north roof","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light north roof. Matt keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":879,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, north roof. arc left open. 4 steps. The badge door stays for the wipe."}
