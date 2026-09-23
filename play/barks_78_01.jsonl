@@ -308,3 +308,6 @@
 {"n":308,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley north roof. Ivo keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":309,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north roof. arc left open. 8 steps. The shutter stays for the wipe."}
 {"n":310,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Kessler alley. Nobody past the north roof. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":311,"kind":"place","name":"Kessler alley north roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north roof. Bess keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":312,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north roof. arc left open. 4 steps. The shutter stays for the wipe."}
+{"n":313,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at the Lot. Nobody past the north roof. We wipe in 5 steps. Arc on the left lane, open."}
