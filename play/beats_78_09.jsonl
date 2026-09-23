@@ -371,3 +371,6 @@
 {"n":371,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Kessler alley. Nobody past the north slip. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":372,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley north slip. Ivo keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":373,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north slip. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":374,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Kessler alley. Nobody past the north slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":375,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley north slip. Bess keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":376,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north slip. arc left open. 4 steps. The shutter stays for the wipe."}
