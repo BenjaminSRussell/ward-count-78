@@ -857,3 +857,6 @@
 {"n":857,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north slip. arc left open. 3 steps. The lamp stays for the wipe."}
 {"n":858,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Ward gate. Nobody past the north slip. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":859,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north slip. Bess keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
+{"n":860,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. arc left open. 6 steps. The lamp stays for the wipe."}
+{"n":861,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Kessler alley. Nobody past the north slip. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":862,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
