@@ -112,3 +112,6 @@
 {"n":112,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east slip. Ivo keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":113,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east slip. arc left open. 8 steps. The radio coil stays for the wipe."}
 {"n":114,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at South stair. Nobody past the east slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":115,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east slip. Bess keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":116,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east slip. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":117,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at the pier. Nobody past the east slip. We wipe in 5 steps. Arc on the left lane, open."}
